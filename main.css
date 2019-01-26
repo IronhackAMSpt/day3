@@ -1,0 +1,23 @@
+.box {
+    border: 2px solid goldenrod;
+    width: 200px;
+    height: 200px;
+    margin: 40px 100px 10px 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.inside3 {
+    height: 50%;
+    background: fuchsia;
+}
+
+footer {
+    clear: both;
+}
+
+.box p {
+    background-color: chartreuse;
+}
+
